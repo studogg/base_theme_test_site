@@ -1,0 +1,18 @@
+extlink_target: true
+extlink_target_no_override: false
+extlink_nofollow: false
+extlink_follow_no_override: false
+extlink_subdomains: false
+extlink_alert: true
+extlink_alert_text: 'You are leaving a federal website to go to an external one.  We are not responsible for the content on external websites.'
+extlink_exclude: .\.gov
+extlink_include: ''
+extlink_class: ext
+extlink_label: '(link is external)'
+extlink_img_class: false
+extlink_css_exclude: ''
+extlink_css_explicit: ''
+extlink_mailto_class: mailto
+extlink_mailto_label: '(link sends email)'
+_core:
+  default_config_hash: rHbHZIIF9TP3H2Vs37uCHz4Gm4phULg0rQ_OKihxJfM

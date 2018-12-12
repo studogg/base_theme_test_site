@@ -1,0 +1,28 @@
+sids:
+  ldap_usda_net_2: ldap_usda_net_2
+  ldap_usda_net_1: ldap_usda_net_1
+authenticationMode: 2
+loginUIUsernameTxt: ''
+loginUIPasswordTxt: ''
+ldapUserHelpLinkUrl: ''
+ldapUserHelpLinkText: 'Logon Help'
+emailOption: 3
+emailUpdate: 3
+emailTemplateHandling: none
+emailTemplate: '@username@example.com'
+emailTemplateUsageResolveConflict: false
+emailTemplateUsageNeverUpdate: false
+emailTemplateUsagePromptUser: false
+emailTemplateUsageRedirectOnLogin: false
+emailTemplateUsagePromptRegex: '.*@example\\.com'
+passwordOption: 3
+allowOnlyIfTextInDn:
+  - ou=NAL
+excludeIfTextInDn: {  }
+excludeIfNoAuthorizations: 0
+ssoRemoteUserStripDomainName: null
+ssoExcludedPaths: {  }
+ssoExcludedHosts: {  }
+seamlessLogin: null
+ldapImplementation: null
+cookieExpire: null
