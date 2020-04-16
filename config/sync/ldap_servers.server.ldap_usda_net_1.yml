@@ -12,8 +12,8 @@ tls: false
 followrefs: null
 weight: null
 bind_method: service_account
-binddn: usda\sv.03.mdnal.ldap2
-bindpw: Vegaop123456
+binddn: usda\xxxxxx
+bindpw: xxxxxx
 basedn: 'OU=NAL,OU=ARS,OU=Agencies,DC=USDA,DC=NET'
 user_attr: samaccountname
 account_name_attr: ''
